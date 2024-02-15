@@ -25,6 +25,7 @@ The goal of this project is to develop a machine learning model capable of accur
 
 
 $ git clone https://github.com/yourusername/House_pricing_prediction.git
+
 $ cd House_pricing_prediction
 
 
