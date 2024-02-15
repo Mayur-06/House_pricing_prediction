@@ -24,7 +24,7 @@ The goal of this project is to develop a machine learning model capable of accur
 1. Clone the repository:
 
 
-$ git clone [https://github.com/yourusername/House_pricing_prediction.git(https://github.com/Mayur-06/House_pricing_prediction.git)
+$ git clone https://github.com/yourusername/House_pricing_prediction.git
 $ cd House_pricing_prediction
 
 
