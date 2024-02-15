@@ -12,7 +12,7 @@ This repository contains code and resources for predicting house prices using ma
   - [3. Model Training](#3-model-training)
   - [4. Model Evaluation](#4-model-evaluation)
 - [Evaluation Metrics](#evaluation-metrics)
-- [Contributing](#contributing)
+- [Contribution](#contribution)
 - [License](#license)
 
 ## Introduction
@@ -78,7 +78,7 @@ Two evaluation metrics are used to assess the performance of the model:
 1. R squared error (R2 Score): Measures the proportion of the variance in the dependent variable that is predictable from the independent variables.
 2. Mean Absolute Error (MAE): Represents the average of the absolute differences between the predicted and actual house prices.
 
-## Contributing
+## Contribution
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
