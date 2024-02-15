@@ -24,7 +24,7 @@ The goal of this project is to develop a machine learning model capable of accur
 1. Clone the repository:
 
 
-$ git clone (Copy link of project from the repositery)
+$ git clone (Copy link of project from the repository)
 
 $ cd House_pricing_prediction
 
