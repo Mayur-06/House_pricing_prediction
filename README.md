@@ -53,7 +53,7 @@ $ pip install numpy pandas matplotlib seaborn scikit-learn xgboost
 
 ## Notebooks
 
-The project is divided into four notebooks, each focusing on a specific aspect of the house pricing prediction process:
+The project is divided into four notebooks, each focusing on a specific aspect of the house pricing prediction process:(Note the order in which notebooks are executed)
 
 ### 1. Data Processing
 
